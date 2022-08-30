@@ -37,7 +37,7 @@
   }
   #banner{
     height: 600px;
-    background: url("imagens/banner.jpeg");
+    background: url("imagens/rj.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -109,5 +109,4 @@
   #social div ul li{
     list-style: none;
     text-align: center;
-
   }
